@@ -33,7 +33,7 @@ Introduction to Water Supply and Wastewater ([PDF - 2.0 MB]({{< baseurl >}}/reso
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Why Treat Water and Wastewater? Water Quality Parameters and Standards (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.2 MB]({{< baseurl >}}/resources/l02_water_qualit))
+Why Treat Water and Wastewater? Water Quality Parameters and Standards ([PDF - 1.2 MB]({{< baseurl >}}/resources/l02_water_qualit))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -42,7 +42,7 @@ Why Treat Water and Wastewater? Water Quality Parameters and Standards (![This r
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Reactor Tanks - Mixed Tanks, First-order Kinetics, Plug Flow (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/l03_react_tank_1))
+Reactor Tanks - Mixed Tanks, First-order Kinetics, Plug Flow ([PDF]({{< baseurl >}}/resources/l03_react_tank_1))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -51,7 +51,7 @@ Reactor Tanks - Mixed Tanks, First-order Kinetics, Plug Flow (![This resource ma
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Reactor Tanks - Dispersed Flow, Tanks-In-Series, Residence Time Distribution (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/l04_react_tank_2))
+Reactor Tanks - Dispersed Flow, Tanks-In-Series, Residence Time Distribution ([PDF]({{< baseurl >}}/resources/l04_react_tank_2))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -60,7 +60,7 @@ Reactor Tanks - Dispersed Flow, Tanks-In-Series, Residence Time Distribution (![
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Sedimentation-Flocculation - Part 1 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/l05_sediment_1))
+Sedimentation-Flocculation - Part 1 ([PDF]({{< baseurl >}}/resources/l05_sediment_1))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -69,7 +69,7 @@ Sedimentation-Flocculation - Part 1 (![This resource may not render correctly in
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Sedimentation-Flocculation - Part 2 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.9 MB]({{< baseurl >}}/resources/l06_sediment_2))
+Sedimentation-Flocculation - Part 2 ([PDF - 1.9 MB]({{< baseurl >}}/resources/l06_sediment_2))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -78,7 +78,7 @@ Sedimentation-Flocculation - Part 2 (![This resource may not render correctly in
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Filtration (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.3 MB]({{< baseurl >}}/resources/l07_filtration))
+Filtration ([PDF - 2.3 MB]({{< baseurl >}}/resources/l07_filtration))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -87,7 +87,7 @@ Filtration (![This resource may not render correctly in a screen reader.](/image
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Chemical Treatment - Softening - Part 1 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.5 MB]({{< baseurl >}}/resources/l08_lime_soft_1))
+Chemical Treatment - Softening - Part 1 ([PDF - 1.5 MB]({{< baseurl >}}/resources/l08_lime_soft_1))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -105,7 +105,7 @@ Chemical Treatment - Softening - Part 2 ([PDF]({{< baseurl >}}/resources/l09_lim
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Chemical Treatment - Adsorption and Ion Exchange (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.2 MB]({{< baseurl >}}/resources/l10_adsor_ion_ex))
+Chemical Treatment - Adsorption and Ion Exchange ([PDF - 2.2 MB]({{< baseurl >}}/resources/l10_adsor_ion_ex))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -123,7 +123,7 @@ Field Trip to City of Cambridge Water Treatment Plant
 11
 {{< tdclose >}}
 {{< tdopen >}}
-Gas Transfer and Air Stripping (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/l11_air_striping))
+Gas Transfer and Air Stripping ([PDF]({{< baseurl >}}/resources/l11_air_striping))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -132,7 +132,7 @@ Gas Transfer and Air Stripping (![This resource may not render correctly in a sc
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Disinfection (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.4 MB]({{< baseurl >}}/resources/l12_disinfection))
+Disinfection ([PDF - 2.4 MB]({{< baseurl >}}/resources/l12_disinfection))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -141,7 +141,7 @@ Disinfection (![This resource may not render correctly in a screen reader.](/ima
 13
 {{< tdclose >}}
 {{< tdopen >}}
-Wastewater Screening, Primary Treatment (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.2 MB]({{< baseurl >}}/resources/l13_wastwatr_pr))
+Wastewater Screening, Primary Treatment ([PDF - 2.2 MB]({{< baseurl >}}/resources/l13_wastwatr_pr))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -159,7 +159,7 @@ Field Trip to Deer Island Wastewater Treatment Plant
 14
 {{< tdclose >}}
 {{< tdopen >}}
-Biological Reaction Kinetics - Part 1 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/l14_reac_kine_1))
+Biological Reaction Kinetics - Part 1 ([PDF]({{< baseurl >}}/resources/l14_reac_kine_1))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -168,7 +168,7 @@ Biological Reaction Kinetics - Part 1 (![This resource may not render correctly 
 15
 {{< tdclose >}}
 {{< tdopen >}}
-Biological Reaction Kinetics - Part 2 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/l15_reac_kine_2))
+Biological Reaction Kinetics - Part 2 ([PDF]({{< baseurl >}}/resources/l15_reac_kine_2))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -177,7 +177,7 @@ Biological Reaction Kinetics - Part 2 (![This resource may not render correctly 
 16
 {{< tdclose >}}
 {{< tdopen >}}
-Stabilization Ponds (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/l16_stabili_pond))
+Stabilization Ponds ([PDF]({{< baseurl >}}/resources/l16_stabili_pond))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -186,7 +186,7 @@ Stabilization Ponds (![This resource may not render correctly in a screen reader
 17
 {{< tdclose >}}
 {{< tdopen >}}
-Activated Sludge Treatment - Part 1 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/l17_activ_slud_1))
+Activated Sludge Treatment - Part 1 ([PDF]({{< baseurl >}}/resources/l17_activ_slud_1))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -195,7 +195,7 @@ Activated Sludge Treatment - Part 1 (![This resource may not render correctly in
 18
 {{< tdclose >}}
 {{< tdopen >}}
-Activated Sludge Treatment - Part 2 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.0 MB]({{< baseurl >}}/resources/l18_activ_slud_2))
+Activated Sludge Treatment - Part 2 ([PDF - 2.0 MB]({{< baseurl >}}/resources/l18_activ_slud_2))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -204,7 +204,7 @@ Activated Sludge Treatment - Part 2 (![This resource may not render correctly in
 19
 {{< tdclose >}}
 {{< tdopen >}}
-Trickling Filters, Biological Contactors (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.1 MB]({{< baseurl >}}/resources/l19_trick_filter))
+Trickling Filters, Biological Contactors ([PDF - 2.1 MB]({{< baseurl >}}/resources/l19_trick_filter))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -213,7 +213,7 @@ Trickling Filters, Biological Contactors (![This resource may not render correct
 20
 {{< tdclose >}}
 {{< tdopen >}}
-Nutrient Removal (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 3.4 MB]({{< baseurl >}}/resources/l20_nutrient_rem))
+Nutrient Removal ([PDF - 3.4 MB]({{< baseurl >}}/resources/l20_nutrient_rem))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -222,7 +222,7 @@ Nutrient Removal (![This resource may not render correctly in a screen reader.](
 21
 {{< tdclose >}}
 {{< tdopen >}}
-Sludge Handling (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.3 MB]({{< baseurl >}}/resources/l21_sludge))
+Sludge Handling ([PDF - 1.3 MB]({{< baseurl >}}/resources/l21_sludge))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -231,7 +231,7 @@ Sludge Handling (![This resource may not render correctly in a screen reader.](/
 22
 {{< tdclose >}}
 {{< tdopen >}}
-Sludge Digestion (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.1 MB]({{< baseurl >}}/resources/l22_sludge_stabi))
+Sludge Digestion ([PDF - 2.1 MB]({{< baseurl >}}/resources/l22_sludge_stabi))
 {{< tdclose >}}
 
 {{< trclose >}}

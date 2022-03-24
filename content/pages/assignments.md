@@ -33,7 +33,7 @@ Problem Set 1 ([PDF]({{< baseurl >}}/resources/homework1))
 Problem Set 2 ([PDF]({{< baseurl >}}/resources/homework2))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/homework2soln))
+([PDF]({{< baseurl >}}/resources/homework2soln))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -87,7 +87,7 @@ Problem Set 7 ([PDF]({{< baseurl >}}/resources/homework7))
 Problem Set 8 ([PDF]({{< baseurl >}}/resources/homework8))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/homework8soln))
+([PDF]({{< baseurl >}}/resources/homework8soln))
 {{< tdclose >}}
 
 {{< trclose >}}

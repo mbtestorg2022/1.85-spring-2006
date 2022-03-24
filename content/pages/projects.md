@@ -26,7 +26,7 @@ TOPICS
 Elizabeth Walker
 {{< tdclose >}}
 {{< tdopen >}}
-MIT Kresge Parking Lot: Development of Rain Garden to Control Stormwater Runoff (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/liz_walker))
+MIT Kresge Parking Lot: Development of Rain Garden to Control Stormwater Runoff ([PDF]({{< baseurl >}}/resources/liz_walker))
 {{< tdclose >}}
 
 {{< trclose >}}
